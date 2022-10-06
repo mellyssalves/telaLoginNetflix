@@ -18,12 +18,12 @@ body{
   input{
     background: #2e2e2e;
     border: 1;
-    margin-button: 4;
+    margin-bottom: 4;
   }
+
   button{
     background: #cc0000;
     border: 1 px solid #4d4d4d;
-    color: ;
     margin: 20px 0;
   }
   
